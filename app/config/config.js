@@ -1,5 +1,5 @@
 
-export const MONGODB_CONNECTION = "mongodb+srv://mrrabbil:mernx123@cluster0.rtpbcy6.mongodb.net/app_todo?retryWrites=true&w=majority"
+export const MONGODB_CONNECTION = ""
 export const JWT_SECRET = "3470e27f669e89ca8abc4128e7b0bd3cc0c38851df09901222a";
 export const JWT_EXPIRATION_TIME = 60*60*24*30;
 
